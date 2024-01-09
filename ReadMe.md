@@ -1,0 +1,1 @@
+Some exploration in closed-end funds, looking into pairs trading between the funds themselves and a proxy for their NAV, as the two are generally cointegrated with the value of the CEF being discounted
